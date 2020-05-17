@@ -2,6 +2,7 @@
  * Start Bootstrap - Resume v5.0.8 (https://startbootstrap.com/template-overviews/resume)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ * ORIGINAL COLOR: #BD5D38
  */
 
 body {
@@ -72,7 +73,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: red;
 }
 
 .dev-icons {
@@ -80,7 +81,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: red;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -160,15 +161,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: black !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: red !important;
 }
 
 a {
-  color: #BD5D38;
+  color: red;
 }
 
 a:hover, a:focus, a:active {
