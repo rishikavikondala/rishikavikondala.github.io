@@ -1,0 +1,23 @@
+header {
+  padding-top:40px;
+}
+
+h1 {
+  font-size: 28px;
+  display: inline-block; 
+  color: #323232;
+  margin-right: 20px;
+  margin-bottom: 0px;
+}
+
+.header-links {
+  display: inline-block; 
+  font-size: 16px;
+  color: #828282;
+}
+
+.main {
+  padding: 36px 18px 0px;
+  margin: 0 auto 0;
+  max-width: 38em;
+}
