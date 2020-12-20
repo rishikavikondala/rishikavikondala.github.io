@@ -4,7 +4,7 @@ header {
 
 h1 {
   font-size: 28px;
-  display: inline-block; 
+  /* display: inline-block;  */
   color: #323232;
   margin-right: 20px;
   margin-bottom: 0px;
@@ -20,4 +20,12 @@ h1 {
   padding: 36px 18px 0px;
   margin: 0 auto 0;
   max-width: 38em;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  border-radius: 50%;
 }
